@@ -18,5 +18,6 @@ if bit == '64bit':
 
     import AK
 
-elif bit == '32bit'
+elif bit == '32bit':
+
     import AK
